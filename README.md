@@ -1,6 +1,6 @@
-# GB Studio: Merry Sample Project
+# GB Studio: Merry Sample Project DX
 
-A Christmas edition of the GB Studio Sample Project.
+A Christmas edition of the GB Studio Sample Project, now with color!
 
 ## About
 
