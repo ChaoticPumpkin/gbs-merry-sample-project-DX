@@ -4,14 +4,14 @@ A Christmas edition of the GB Studio Sample Project, now with color!
 
 ## About
 
-The game is playable at:  
+The original game is playable at:  
 [https://chrismaltby.itch.io/merry-sample-project](https://chrismaltby.itch.io/merry-sample-project)
 
 This repository contains the source files and graphical assets needed to edit the game in [GB Studio](https://www.gbstudio.dev) the retro adventure game maker.
 
 ## Open
 
-To open this project first [install GB Studio](https://www.gbstudio.dev/docs/installation/).
+To open this project first [install GB Studio 2.0](https://www.gbstudio.dev/docs/installation/).
 
 Clone the project then use GB Studio to open the `.gbsproj` file.
 
